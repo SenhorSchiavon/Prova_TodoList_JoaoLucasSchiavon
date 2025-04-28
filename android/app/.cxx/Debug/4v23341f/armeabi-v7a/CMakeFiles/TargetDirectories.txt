@@ -1,0 +1,2 @@
+B:/AndroidStudioProjects/prova_todolist_joao_lucas_schiavon/android/app/.cxx/Debug/4v23341f/armeabi-v7a/CMakeFiles/edit_cache.dir
+B:/AndroidStudioProjects/prova_todolist_joao_lucas_schiavon/android/app/.cxx/Debug/4v23341f/armeabi-v7a/CMakeFiles/rebuild_cache.dir

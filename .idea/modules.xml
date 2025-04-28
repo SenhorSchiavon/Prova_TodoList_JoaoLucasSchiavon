@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/prova_todolist_joao_lucas_schiavon.iml" filepath="$PROJECT_DIR$/prova_todolist_joao_lucas_schiavon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/prova_todolist_joao_lucas_schiavon_android.iml" filepath="$PROJECT_DIR$/android/prova_todolist_joao_lucas_schiavon_android.iml" />
+    </modules>
+  </component>
+</project>
