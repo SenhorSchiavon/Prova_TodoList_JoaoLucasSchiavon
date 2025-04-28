@@ -1,0 +1,1 @@
+ B:\\AndroidStudioProjects\\prova_todolist_joao_lucas_schiavon\\.dart_tool\\flutter_build\\054676e4265e8dafe1d85a518dae7241\\native_assets.json: 
